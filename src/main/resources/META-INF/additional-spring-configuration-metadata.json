@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "endpoints.health.sensitive",
+      "type": "java.lang.String",
+      "description": "Description for endpoints.health.sensitive."
+  }
+] }
